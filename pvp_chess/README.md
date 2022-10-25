@@ -24,25 +24,25 @@ Use your keyboard key <kbd>R</kbd> to reset the game board
 
 ## Snapshots
 ### Purple Theme (Default)
-![theme1](pvp_chess/snapshots/theme1.png)
+![theme1](snapshots/theme1.png)
 ### Green Theme
-![theme2](pvp_chess/snapshots/theme2.png)
+![theme2](snapshots/theme2.png)
 ### Blue Theme
-![theme3](pvp_chess/snapshots/theme3.png)
+![theme3](snapshots/theme3.png)
 ### Brown Theme
-![theme4](pvp_chess/snapshots/theme4.png)
+![theme4](snapshots/theme4.png)
 ### Grey Theme
-![theme5](pvp_chess/snapshots/theme5.png)
+![theme5](snapshots/theme5.png)
 ### Moves
-![moved](pvp_chess/snapshots/moved.png)
+![moved](snapshots/moved.png)
 ### Move Assist
-![move assist](pvp_chess/snapshots/move-help.png)
+![move assist](snapshots/move-help.png)
 ### Castling
-![castling](pvp_chess/snapshots/castling.png)
+![castling](snapshots/castling.png)
 ### En-Passant
-![en-passant](pvp_chess/snapshots/en-passant.png)
+![en-passant](snapshots/en-passant.png)
 ### Pawn Promotion
-![pawn promotion](pvp_chess/snapshots/pawn-promotion.png)
+![pawn promotion](snapshots/pawn-promotion.png)
 
 ---
 
